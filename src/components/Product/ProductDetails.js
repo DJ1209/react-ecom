@@ -70,7 +70,7 @@ class ProductDetails extends Component {
                       alt="img"
                       height={300}
                       width={300}
-                      src={`http://localhost:4000/upload/${product_detail.p_image}`}
+                      src={`https://mernadmin.herokuapp.com/upload/${product_detail.p_image}`}
                     />
                   </span>
                 </Row>

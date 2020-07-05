@@ -83,7 +83,7 @@ class Product extends Component {
               </Row>
               <Row>
                 <Label>Product Image : </Label>
-                <img alt="img" className="myimgdetails" src={`http://localhost:4000/upload/${product.p_image}`} />
+                <img alt="img" className="myimgdetails" src={`https://mernadmin.herokuapp.com/upload/${product.p_image}`} />
               </Row>
               {loggedIn ? (
                 <>

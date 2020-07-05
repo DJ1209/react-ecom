@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseUrl = "http://localhost:4000/api/userapi";
+const baseUrl = "https://mernadmin.herokuapp.com/api/userapi";
 
 // GET METHOD
 
