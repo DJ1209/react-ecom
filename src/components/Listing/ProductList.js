@@ -43,7 +43,7 @@ class ProductList extends Component {
                       height={250}
                       width={200}
                      
-                      src={`http://localhost:4000/upload/${product.p_image}`}
+                      src={`https://mernadmin.herokuapp.com/upload/${product.p_image}`}
                     />
                    <h1>{product.p_name}</h1>
                    <p className="price">${product.p_price}</p>
