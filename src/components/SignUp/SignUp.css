@@ -1,0 +1,10 @@
+label {
+  color: black;
+  font-size: 23px;
+}
+.message-for-login {
+  color: green;
+}
+.sub-title {
+  color: lightslategray;
+}

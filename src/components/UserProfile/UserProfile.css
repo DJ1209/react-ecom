@@ -1,0 +1,18 @@
+.user-details {
+  margin: 0px 0px 0px 30px;
+}
+
+.user-heading {
+  font-size: 50px;
+}
+
+li {
+  font-size: 35px;
+  font-weight: bold;
+  color: black;
+}
+
+
+.user-content {
+  font-size: 30px;
+}

@@ -1,0 +1,52 @@
+.header {
+  margin: 30px 20px 10px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  min-height: 20px;
+  background-color: #343a40!important;
+  
+  
+}
+
+.nav {
+  width: 100%;
+ 
+
+}
+.nav-item {
+  height: 40px;
+}
+.nav-link {
+  padding: 0px;
+  margin-left: 20px;
+}
+.headings {
+  margin: 10px;
+}
+.main_category {
+  border: 1px ridge;
+}
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+.nav a {
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: initial;
+  color: white;
+}
+a:hover {
+  color: #999999;
+  text-decoration: none;
+}
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+.account {
+  margin-left: 15%;
+}
+.login-link {
+  padding: 5px;
+}
